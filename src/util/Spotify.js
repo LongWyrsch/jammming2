@@ -1,5 +1,5 @@
 const clientId = '5ca30d6d81ad41f79ed049c301b3c3ab';
-const redirectUri = 'http://localhost:3000/';
+const redirectUri = 'https://lucky-sundae-3aedd0.netlify.app';
 let accessToken;
 
 const Spotify = {
